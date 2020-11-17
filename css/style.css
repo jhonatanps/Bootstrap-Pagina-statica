@@ -1,0 +1,83 @@
+body{
+    min-height: 75rem;
+    padding-top: 3.5rem;
+}
+
+.link{
+    top: -120px;
+    position: relative;
+    z-index: 5;
+}
+
+.descr-top{
+    background-image: url('../imagens/343158.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 150px;
+    padding-bottom: 150px;
+    color: #fff;
+    border-radius: 0px;
+    margin-bottom: 0rem !important;
+}
+
+.servicos{
+    padding: 80px;
+    padding-bottom: 80px;
+    background-color: #fff;
+    margin-bottom: 0rem !important;  
+    border-radius: 0px;
+}
+
+.circulo{
+    width: 140px;
+    height: 140px;
+    /* background-color: #0095eb;*/
+    font-size: 52px;
+    padding-top: 40px;
+}
+.circulo:hover{
+    background-color: black;
+    color: #fff;
+}
+
+.centralizar{
+    margin: 0 auto !important;
+    float: none !important;
+
+}
+.descr-chamada{
+    background-image: url('../imagens/mr-robot-mask.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    color: #fff;
+    border-radius: 0px;
+    margin-bottom: 0rem !important;
+}
+.contato{
+    background-color: #fff;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    border-radius: 0px;
+    margin-bottom: 0rem !important;
+}
+
+.rodape{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: #000000;
+    color: #fff;
+    border-radius: 0px;
+    margin-bottom: 0rem !important;
+}
+
+.rodape ul li a.link-rodape{
+    color: #fff !important;
+}.rodape ul li a.link-rodape:hover{
+    color: #adaeaf !important;
+    text-decoration: none;
+}
+
